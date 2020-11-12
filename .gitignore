@@ -1,0 +1,6 @@
+*.o
+*.a
+*.so*
+libspe2.pc
+spu-ps
+spu-top
