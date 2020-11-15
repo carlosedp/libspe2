@@ -4,3 +4,5 @@
 libspe2.pc
 spu-ps
 spu-top
+elfspe/elfspe
+elfspe/elfspe-register
